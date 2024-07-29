@@ -1,0 +1,22 @@
+:root {
+    /* background color */
+    --primary-gray: #F8F8F8 ;
+    --primary-teal: #59C8E0;
+
+    /* secondary color*/
+    --secondary-basic: #178EA8;
+    --secondary-lighter: #59c8e0;
+    --secondary-link:#9CE4F2;
+    --secondary-link-lighter: #e9faff;
+
+    /*Ink color*/
+    --ink-teal: #178ea8;
+    --ink-basic: #172b4d;
+    --ink-ligh: #6b778c;
+    --ink-lighter: #ffffff;
+
+    /* background color */
+    --background-lighter: #f8f8f8;
+    --background-footer: #2c3749;
+    
+}
